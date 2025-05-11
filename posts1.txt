@@ -1,0 +1,183 @@
+30
+0
+    Enjoying a great day in the park!
+    0
+    12
+    public
+
+1
+    Had a fantastic dinner with friends tonight.
+    1
+    10
+    semi-private
+
+2
+    Finally finished the new book I’ve been reading!
+    2
+    15
+    private
+
+3
+    A new project underway! Excited for what’s to come.
+    3
+    5
+    public
+
+4
+    Work is stressful, but I’m pushing through!
+    4
+    8
+    semi-private
+
+5
+    I miss my family… hoping to visit soon.
+    5
+    2
+    private
+
+6
+    A fun day at the beach with friends!
+    6
+    20
+    public
+
+7
+    Business has been great this month.
+    7
+    7
+    semi-private
+
+8
+    So much to do, so little time.
+    8
+    9
+    private
+
+9
+    The weather is perfect for a walk today.
+    9
+    14
+    public
+
+10
+    Celebrating a small victory at work today!
+    0
+    13
+    semi-private
+
+11
+    Feeling grateful for good friends and family.
+    1
+    11
+    private
+
+12
+    Exploring new opportunities in the city.
+    2
+    6
+    public
+
+13
+    Caught up with some old friends today, great to reconnect.
+    3
+    18
+    semi-private
+
+14
+    I’ve been learning new hobbies lately!
+    4
+    4
+    private
+
+15
+    Feeling inspired after a creative brainstorming session.
+    5
+    16
+    public
+
+16
+    Relaxing after a long week.
+    6
+    5
+    semi-private
+
+17
+    Looking forward to some quiet time this weekend.
+    7
+    3
+    private
+
+18
+    It’s a beautiful day for a coffee in the morning sun.
+    8
+    10
+    public
+
+19
+    Can’t wait for the weekend getaway next week!
+    9
+    8
+    semi-private
+
+20
+    I just received a message from John. It was great catching up!
+    0
+    5
+    private
+    Sandhya Krish
+21
+    Looking forward to the big meeting tomorrow!
+    1
+    7
+    public
+    Aled Montes
+22
+    I heard from my cousin today. It was a pleasant surprise!
+    2
+    3
+    semi-private
+    Haaris George
+23
+    Got a message from my old school friend today.
+    3
+    10
+    private
+    Haaris George
+24
+    Just had a deep conversation with a colleague.
+    4
+    12
+    public
+    Alysha Gray
+25
+    Holy Moly
+    5
+    5
+    semi-private
+    Aled Montes
+26
+    Yippee
+    6
+    7
+    private
+    Gasper Blancas
+27
+    I like treats
+    7
+    3
+    public
+    Qiu Dong
+28
+    I love you all
+    8
+    10
+    semi-private
+    Gasper Blancas
+29
+    Very cool.
+    9
+    12
+    private
+    Qiu Dong
+
+

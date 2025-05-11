@@ -1,0 +1,61 @@
+10
+0
+    Aled Montes
+    2009
+    47309
+    1 2 3
+    semi-private
+1
+    Sandhya Krish
+    2000
+    31153
+    0 4
+    public
+2
+    Haaris George
+    2009
+    63181
+    0 5
+    semi-private
+3
+    Alysha Gray
+    1983
+    8762
+    0 6
+    private
+4
+    Lilly Flynn
+    2009
+    14125
+    1 7
+    public
+5
+    Qiu Dong
+    1980
+    42676
+    2 8
+    semi-private
+6
+    Safia Barnes
+    1993
+    41959
+    3 9
+    private
+7
+    Gasper Blancas
+    2008
+    88738
+    4
+    public
+8
+    Pundarik Samuel
+    1988
+    96869
+    5
+    semi-private
+9
+    Jeremy Hodges
+    1995
+    96869
+    6
+    private

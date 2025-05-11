@@ -1,0 +1,61 @@
+10
+0
+	John Doe
+	1990
+	12345
+	1 2 3 6 9 	semi-private
+
+1
+	Jane Smith
+	1992
+	67890
+	0 4 	public
+
+2
+	Alice Johnson
+	1988
+	11223
+	0 5 	semi-private
+
+3
+	Albert Graham
+	1990
+	12345
+	0 6 	private
+
+4
+	Andre Jordan
+	1992
+	67890
+	1 7 	public
+
+5
+	Melody Vu
+	1988
+	11223
+	2 8 	semi-private
+
+6
+	Pearl Fey
+	1990
+	12345
+	0 3 9 	private
+
+7
+	Maya Fey
+	1992
+	67890
+	4 	public
+
+8
+	John Yakuza
+	1988
+	11223
+	5 	semi-private
+
+9
+	Trucy Wright
+	1992
+	67890
+	0 6 	private
+
